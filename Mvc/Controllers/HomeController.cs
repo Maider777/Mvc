@@ -9,7 +9,7 @@ using Mvc.Models;
 
 namespace Mvc.Controllers
 {
-	public class HomeController : Controller
+	public class HomeController : Controller//Herencia de clases
 	{
 		private readonly ILogger<HomeController> _logger;
 
